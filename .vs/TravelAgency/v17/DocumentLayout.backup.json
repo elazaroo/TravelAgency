@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DAM3-Eneko Lazaro\\source\\repos\\VB\\TravelAgency\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{51BBD426-3114-4452-BDD4-837BC56C7DBC}|TravelAgency.vbproj|c:\\users\\dam3-eneko lazaro\\source\\repos\\vb\\travelagency\\newtrip.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{51BBD426-3114-4452-BDD4-837BC56C7DBC}|TravelAgency.vbproj|solutionrelative:newtrip.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51BBD426-3114-4452-BDD4-837BC56C7DBC}|TravelAgency.vbproj|c:\\users\\dam3-eneko lazaro\\source\\repos\\vb\\travelagency\\newclient.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{51BBD426-3114-4452-BDD4-837BC56C7DBC}|TravelAgency.vbproj|solutionrelative:newclient.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51BBD426-3114-4452-BDD4-837BC56C7DBC}|TravelAgency.vbproj|c:\\users\\dam3-eneko lazaro\\source\\repos\\vb\\travelagency\\newclient.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{51BBD426-3114-4452-BDD4-837BC56C7DBC}|TravelAgency.vbproj|solutionrelative:newclient.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51BBD426-3114-4452-BDD4-837BC56C7DBC}|TravelAgency.vbproj|c:\\users\\dam3-eneko lazaro\\source\\repos\\vb\\travelagency\\newtrip.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{51BBD426-3114-4452-BDD4-837BC56C7DBC}|TravelAgency.vbproj|solutionrelative:newtrip.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NewClient.vb",
+              "DocumentMoniker": "C:\\Users\\DAM3-Eneko Lazaro\\source\\repos\\VB\\TravelAgency\\NewClient.vb",
+              "RelativeDocumentMoniker": "NewClient.vb",
+              "ToolTip": "C:\\Users\\DAM3-Eneko Lazaro\\source\\repos\\VB\\TravelAgency\\NewClient.vb",
+              "RelativeToolTip": "NewClient.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-10T09:46:18.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NewClient.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\DAM3-Eneko Lazaro\\source\\repos\\VB\\TravelAgency\\NewClient.vb",
+              "RelativeDocumentMoniker": "NewClient.vb",
+              "ToolTip": "C:\\Users\\DAM3-Eneko Lazaro\\source\\repos\\VB\\TravelAgency\\NewClient.vb [Dise\u00F1o]",
+              "RelativeToolTip": "NewClient.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-10T09:46:17.571Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NewTrip.vb",
+              "DocumentMoniker": "C:\\Users\\DAM3-Eneko Lazaro\\source\\repos\\VB\\TravelAgency\\NewTrip.vb",
+              "RelativeDocumentMoniker": "NewTrip.vb",
+              "ToolTip": "C:\\Users\\DAM3-Eneko Lazaro\\source\\repos\\VB\\TravelAgency\\NewTrip.vb",
+              "RelativeToolTip": "NewTrip.vb",
+              "ViewState": "AgIAACUAAAAAAAAAAAA3wCwAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-10T09:31:56.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NewTrip.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\DAM3-Eneko Lazaro\\source\\repos\\VB\\TravelAgency\\NewTrip.vb",
+              "RelativeDocumentMoniker": "NewTrip.vb",
+              "ToolTip": "C:\\Users\\DAM3-Eneko Lazaro\\source\\repos\\VB\\TravelAgency\\NewTrip.vb [Dise\u00F1o]",
+              "RelativeToolTip": "NewTrip.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-10T09:26:55.221Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
